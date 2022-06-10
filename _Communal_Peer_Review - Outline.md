@@ -92,3 +92,44 @@ The following tags (or combinations of tags) are considered #citeable (i.e. a pa
 	- #CommunityRejected
 	- #NoConsensus + #Stale 
 		- i.e. if a paper never reaches consensus, it is not viable for citation
+
+## Community owned endowment
+(this is the wacky bit)
+- This is a kind of communally owned endowment, whereby community members own 'stake' in the endowment and are incentivised not to withdraw their stake by compouding interest payouts on held stake.
+	- Interest rates and vestment 
+- Operational costs should be low at the start, so these numbers will be small "proof of concept" kinds of payments intended to provide practical case studies of various mechanisms
+ 
+- Payments into this endowment fund can come from - 
+	- **Article processing fees paid by submitting authors**
+		- When possible these will be written in to grants and other funding mechanisms (similar to traditional journal fees )
+		- Unfunded, or underfunded researchers may apply for waivers on these fees
+		- If possible, author fees will cover MORE than the cost of processing an article (say, double)
+			- Authors will retain 'ownership' of the excess funding, but will be strongly incentivised from withdrawing in the form of steep penalties for early withdrawl that diminish according to a 'vesting' schedule 
+				- after the end of the vesting schedule, the authors will retain ownership of those funds accoring the standard 'staking' mechanism defined in the [[Incentive structure]]
+	- **Grants and other external funding**
+		- Submission of grants to various "metascience" mechanisms and solicited donations from philantropic organizations (similar to how eLife got it's start)
+	- **Annual meetings?**
+	- **I don't know, like... Merch? lol**
+
+# Incentive structure
+(This is ALSO the wacky bit)
+
+- Community members are rewarded  for participating the #review system in the form of #stake  points in a [[communually owned endowment]] - essentially a pool of money that is invested in some kind of long-term, slow-growth structure (similar to University endowments)
+	- Community members are incentivised NOT to withdraw their stake in the form of compounding interest payouts associated with the growth of the #endowment as a whole
+		- basically "here's money for your contributions. You can take it now, but if you leave it in it will grow over time "
+		- Staking rewards defined algorithmically (with human/communal oversight) via "automated market maker" type mechanisms
+- **Staking points** are awarded to #vetted members who provide a substantive contriubtion to a conversation around a submitted manuscript 
+	- "substantive contribution" can be determined via  a kind of 'voting' system on  the relevant discussion board 
+			-  think like Reddit points but with a distributed Mod-structure in the form of `vetted members`
+
+# Vetting community members
+
+A community member may achieve #vetted status by accumulating #clout in various ways:
+
+- Previously published papers 
+- Contributions to the review of a given paper
+- Probably other stuff too 
+
+Once some `critical threshold`  of accumulated #clout is reached, a member is considered #vetted, and may begin to accrue #stake in the [[communually owned endowment]] by contrinuting to the Community Review process 
+
+The status of being #vetted is a binary - a member is either #vetted or #non-vetted. However, there is no limit to the amount of #clout that a member may earn, which will allow them to receive some degree of prestige and recognition for their contributions to the community at large. 

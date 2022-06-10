@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "048fc69e0a650b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72df54548085dd6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa8fbb6f24c02361",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b44fbade010887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09341960256a68c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad8bea8929404504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "1fba38cfd35a03b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "02d450309b6673dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a671d74217c3ad27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d72df54548085dd6",
+  "lastOpenFiles": [
+    "CommunalPeerRevew/Community Structure/communually owned endowment.md",
+    "_Communal_Peer_Review - Outline.md",
+    "CommunalPeerRevew/Community Structure/Vetting community memebers.md",
+    "CommunalPeerRevew/Community Structure/Incentive structure.md"
+  ]
+}
