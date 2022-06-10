@@ -3,36 +3,37 @@
 
 ## GAP STATEMENT and TASK AT HAND
  Journal based peer review is inequitable, inefficient, and generally a steaming pile of hot garbage
-	- e.g. dan goodman blog post
+ 
+- e.g. [dan goodman blog post](http://neural-reckoning.org/reviewing.html)
 	
 However, peer review currently plays an essential role in the vehicle of scientific progress and human inquiry, so it cannot be rejected wholesale *without a viable alternative.*
 
 Hence, **we must create an alternative form of community based review** that serves the same role as the current system of journal-based peer review, while also being:
-	- an equal-or-superior method of scientific pre-evaluation and consensus of technical soundness of a given manuscript
-	- Better suited to modern world and imminent concerns relating to current structural inequities and potential future cataclysms 
-	- Equitable and decentralized
-	- Managed "as autonomously as possible" with individual human and community  in-the-loop oversight to mitigate unavoidable algorithmic bias and bad-actor trolling
+- an equal-or-superior method of scientific pre-evaluation and consensus of technical soundness of a given manuscript
+- Better suited to modern world and imminent concerns relating to current structural inequities and potential future cataclysms 
+- Equitable and decentralized
+- Managed "as autonomously as possible" with individual human and community  in-the-loop oversight to mitigate unavoidable algorithmic bias and bad-actor trolling
 
 
 ## What is the role of peer review?
 Peer review is used to determine whether a given work could constitute a **non-zero net positive** or a **net negative** if entered into [[Web of Knowledge]] - a **Quinian web-of-belief** epistemological structure comprising the total of human knowledge
 
 Some of the practical functions of peer-review:
-	- **Pre-verification by domain experts** so people know they can 'trust' a given piece of work 
-		- protection from low-quality, unreliable effort
-		- maintain integretiy of scientific web of knowledge/belief
-		- Allows non-domain-experts to safely ingest the new knowledge without needing to develop the domain-expertise to determine validity of a given contribution
+- **Pre-verification by domain experts** so people know they can 'trust' a given piece of work 
+	- protection from low-quality, unreliable effort
+	- maintain integretiy of scientific web of knowledge/belief
+	- Allows non-domain-experts to safely ingest the new knowledge without needing to develop the domain-expertise to determine validity of a given contribution
 		- 
-	- **It tells us what we are allowed to cite**
-		- New contributions must connect to the broader context of inquiry by citing other people's work 
-		- The current system of peer review provides an easy mechanism to determine 'validity' of a given publication
-			- i.e. if it's published in a journal, it is assumed to be 'trustworthy' to the effect that citing it will not diminish the epistemolgical validity of your work
-			-
-	- **It provides a record of an individual's contributions**
-		- A person's citation record is presumed to show the number of direct contributions that person has provided to the [[Web of Knowledge]]
-			- This is beneficial both to 
-				- the person (as they can and should benefit from communal trust derived with previous contributions)
-				- the community (as it allows us to determine the trustworthiness of individuals with whom we have had no previous or direct contact)
+- **It tells us what we are allowed to cite**
+	- New contributions must connect to the broader context of inquiry by citing other people's work 
+	- The current system of peer review provides an easy mechanism to determine 'validity' of a given publication
+		- i.e. if it's published in a journal, it is assumed to be 'trustworthy' to the effect that citing it will not diminish the epistemolgical validity of your work
+		
+- **It provides a record of an individual's contributions**
+	- A person's citation record is presumed to show the number of direct contributions that person has provided to the [[Web of Knowledge]]
+		- This is beneficial both to 
+			- the person (as they can and should benefit from communal trust derived with previous contributions)
+			- the community (as it allows us to determine the trustworthiness of individuals with whom we have had no previous or direct contact)
 
 ## "Definition of Done"
 The first phase of this project aims to create a viable alternative to the current system of journal-mediated peer review
